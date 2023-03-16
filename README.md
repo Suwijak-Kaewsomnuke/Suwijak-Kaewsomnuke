@@ -5,13 +5,15 @@
 
 # 🌱 Skills and Tools
 #### Programming languages:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) &nbsp;
-![SQL](https://img.shields.io/badge/SQL-%23150458.svg?style=flat-square&logo=SQL&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) &nbsp;
+![R](https://img.shields.io/badge/R-062D8E?style=flat&logo=R&logoColor=ffffff) &nbsp;
+![SQL](https://img.shields.io/badge/SQL-%23150458.svg?style=flat&logo=SQL&logoColor=white)&nbsp;
 
 #### Scientific Computing Tools
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)&nbsp;  
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23d9ead3.svg?style=flat&logo=Matplotlib&logoColor=black)&nbsp;
 
 <!--
 **Suwijak-Kaewsomnuke/Suwijak-Kaewsomnuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
