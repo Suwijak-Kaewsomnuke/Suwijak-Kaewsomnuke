@@ -1,4 +1,5 @@
-### Hi there 👋
+* 👋Hi, I'm Suwijak Kaewsomnuke
+* 👀I'm interested in Data Analyst
 
 <!--
 **Suwijak-Kaewsomnuke/Suwijak-Kaewsomnuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
