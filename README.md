@@ -9,7 +9,7 @@
 ![R](https://img.shields.io/badge/R-062D8E?style=flat&logo=R&logoColor=ffffff) &nbsp;
 ![SQL](https://img.shields.io/badge/SQL-%23150458.svg?style=flat&logo=SQL&logoColor=white)&nbsp;
 
-#### Scientific Computing Tools
+#### Scientific Computing Tools:
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)&nbsp;
